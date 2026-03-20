@@ -54,7 +54,7 @@ python main.py
 
 ### 4. Run with real NCBI sequences (recommended)
 ```bash
-# Download sequences.fasta from NCBI (see data/README.md)
+# Download sequences.fasta from NCBI 
 # Then:
 python main.py --fasta data/sequences.fasta
 ```
